@@ -1,32 +1,87 @@
 body {
-  background-color:black;
+  background-color: #188F30;
 }
 
 p {
-  color:white;
+  color: #1899CC;
   font-family: "Viga", "Times New Roman", serif;
   font-weight: 700;
   font-size: 20px;
   text-align: center;
 }
 
+a{
+  text-decoration: none;
+  font-family: serif;
+}
+
 h1{
-  color:white;
+  color: #9C9708;
+  text-align: center;
 }
 
 h3{
-  color:white;
+  color: #9C9708;
   font-family: inherit;
 }
 
 img {
   border: none;
-  align-self: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
+
+ul {
+  text-decoration: none;
+  list-style-type: none;
+  text-align: center;
+  padding: 0;
+  color: #1899CC;
+}
+
 #title{
-  font-family: "Times New Roman", serif;
+  font-family: 'PT Sans Narrow', sans-serif;
 }
 
-#container{
+#nav1{
+  align: center;
+  text-align: center;
+}
 
+#nav li {
+  margin: 0;
+  padding: 0;
+  border-bottom: 1px solid #ccc;
+  text-decoration: none;
+}
+
+#nav a:link, a:visited {
+  display: block;
+  color: #A96000;
+  background-color: #C09400;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: none;
+  padding: 4px;
+  font-family: "Italiana", Arial, sans-serif;
+
+}
+#nav a:hover, a:active {
+  background-color: #E6DE00;
+}
+
+#link {
+  font-family: 'Raleway', sans-serif;
+  font-size: 30px;
+  color: #9C9708;
+}
+
+#footer1{
+  display:block;
+  color: black;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 0.8em;
+  border-top: 1px solid black
 }
