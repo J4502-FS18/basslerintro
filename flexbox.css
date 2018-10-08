@@ -5,7 +5,7 @@
   justify-content: right;
  }
 
- @media screen and (min-width: 599px) {
+ @media screen and (max-width: 599px) {
 
    .container{
      flex: auto;
