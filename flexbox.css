@@ -5,7 +5,7 @@
   justify-content: right;
  }
 
- @media (min-width: 599px) {
+ @media (max-width: 599px) {
 
    .container{
      margin-right: auto;
