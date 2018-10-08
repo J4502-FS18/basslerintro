@@ -1,7 +1,7 @@
 .container {
   display: flex;
   margin-right: auto;
-  flex-direction: row;
+  flex-direction: column;
   justify-content:center;
  }
 
@@ -10,7 +10,7 @@
    .container{
      flex: 3;
      flex-grow: 1;
-     flex-direction: row-reverse;
+     flex-direction: row;
      justify-content: right;
    }
 
