@@ -8,6 +8,7 @@
  @media (min-width: 599px) {
 
    .container{
+     flex: auto;
      flex-direction: row;
      justify-content:right;
    }
