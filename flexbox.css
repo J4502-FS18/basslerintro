@@ -7,7 +7,7 @@
 
    .container{
      flex-direction: row;
-     justify-content:right;
+     justify-content:center;
    }
 
  }
