@@ -9,7 +9,7 @@
 
    .container{
      flex: auto;
-     flex-direction: row-reverse;
+     flex-direction: row;
      justify-content:right;
    }
 
