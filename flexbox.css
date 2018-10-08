@@ -6,7 +6,7 @@
  @media (min-width: 599px) {
 
    .container{
-     flex-direction:row;
+     display: flex;
      justify-content:center;
    }
 
