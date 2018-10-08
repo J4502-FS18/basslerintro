@@ -10,8 +10,7 @@
    .container{
      flex: 3;
      flex-grow: 1;
-     flex-direction:column-reverse;
-     justify-content: right;
+     flex-direction:row-reverse;
    }
 
  }
