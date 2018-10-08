@@ -5,11 +5,11 @@
   justify-content: right;
  }
 
- @media (min-width: 599px) {
+ @media screen and (min-width: 599px) {
 
    .container{
      flex: auto;
-     flex-direction: row;
+     flex-direction: row-reverse;
      justify-content:right;
    }
 
