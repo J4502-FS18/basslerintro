@@ -1,6 +1,7 @@
 body {
   font-family: 1em;
   font-family: "Italiana", Arial, sans-serif;
+  color: #fff;
   padding-left: 5%;
   padding-right: 5%;
 }
@@ -17,7 +18,7 @@ body {
   margin: 5px;
   background: #f1b82d;
   border-radius: 3px;
-  box-align:center;
+  text-align: center;
 }
 
 p {
