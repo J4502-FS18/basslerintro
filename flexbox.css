@@ -8,7 +8,7 @@
  @media (min-width: 599px) {
 
    .container{
-     flex: auto;
+     margin-right: auto;
      flex-direction: column;
      justify-content:center;
    }
