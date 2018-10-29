@@ -157,6 +157,10 @@ ul {
    border-radius: 5px;
  }
 
+ .cards img {
+   width: 100%;
+ }
+
 .cardtext {
   max-width: 200px;
   text-align: center;
