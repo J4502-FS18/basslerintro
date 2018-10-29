@@ -146,8 +146,8 @@ ul {
   color: #A96000;
   grid-template-areas:
   ". e f ."
-  "a a b b"
-  "c c d d";
+  "a a c c"
+  "b b d d";
 }
 
  .cards li {
@@ -200,8 +200,8 @@ ul {
             .cards {
               display: grid;
                 grid-template-areas:
-                "a a b b"
-                "c c d d"
+                "a a c c"
+                "b b d d"
                 ". e f .";
         }
       }
